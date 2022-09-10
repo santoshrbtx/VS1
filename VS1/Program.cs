@@ -6,7 +6,7 @@ namespace VS1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Jenkin 1");
+            Console.WriteLine("Hello World! Jenkin 2");
         }
     }
 }
